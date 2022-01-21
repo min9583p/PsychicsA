@@ -6,6 +6,7 @@
 ---
 ### 소개
 * [**PaperMC**](https://papermc.io/) 기반의 초능력 플러그인입니다.
+* 해당 플러그인은 [**Noonmaru**](https://github.com/noonmaru/)님의 플러그인을 기반으로 능력만 추가된 버전입니다.
 ---
 
 ### 사용법 및 개발 문서
